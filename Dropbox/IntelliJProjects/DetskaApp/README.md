@@ -1,6 +1,9 @@
 # Math Game 2.0
 
 Matematická hra pre žiakov základných škôl, ktorá pomáha precvičovať matematické príklady a jednotkové prevody.
+<img width="745" alt="Snímka obrazovky 2025-04-09 o 18 47 46" src="https://github.com/user-attachments/assets/d92b5deb-709b-4ee6-bccb-0888aaeedf73" />
+
+
 
 ## Funkcie
 
@@ -77,20 +80,7 @@ Po spustení je aplikácia dostupná na adrese: http://localhost:8080
   - `static/` - statické súbory (CSS, JavaScript, obrázky)
   - `templates/` - HTML šablóny
 
-### Testovanie
-```bash
-mvn test
-```
-
-## Prispievanie
-
-1. Vytvorte fork repozitára
-2. Vytvorte feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commitnite vaše zmeny (`git commit -m 'Add some AmazingFeature'`)
-4. Pushnite do branchu (`git push origin feature/AmazingFeature`)
-5. Otvorte Pull Request
-
-Ako som Ti písala treba opraviť MathExampleController a triedu FourthGradeMathService. Zatiaľ to nechajme private
 
 
-<img width="723" alt="math-game" src="https://github.com/user-attachments/assets/531e1a06-1d24-4dd1-bdc5-2c7b69b3b9d7" />
+
+
