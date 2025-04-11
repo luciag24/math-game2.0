@@ -1,6 +1,7 @@
 # Math Game 2.0
 
 Matematická hra pre žiakov základných škôl, ktorá pomáha precvičovať matematické príklady a jednotkové prevody.
+
 <img width="745" alt="Snímka obrazovky 2025-04-09 o 18 47 46" src="https://github.com/user-attachments/assets/d92b5deb-709b-4ee6-bccb-0888aaeedf73" />
 
 
